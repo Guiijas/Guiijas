@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to my Profile 😊
 
 - 🔭 I’m currently working on my project NextPlate
 - 🌱 I’m currently learning Python
